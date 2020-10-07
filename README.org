@@ -1,0 +1,13 @@
+-*- mode: org; mode: visual-line; -*-
+#+STARTUP: indent logdone lognoteclock-out
+
+* =presentations-2020=
+
+Presentations with new =reveal.js=.
+
+** Setup
+
+- Download or clone =reveal.js= (from [[https://github.com/cassiel/reveal.js][cassiel]] or original from [[https://github.com/hakimel/reveal.js][hakimel]])
+- In this repository: symlink =dist= and =plugin= to the above
+- Run local web server (=python -m SimpleHTTPServer= or equivalent)
+- Create new HTML files based on =index.html=
